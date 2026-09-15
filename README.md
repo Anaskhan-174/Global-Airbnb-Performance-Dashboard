@@ -53,14 +53,14 @@ This dashboard combines these dimensions into an interactive view to support mar
 
 ## 📸 Dashboard Preview
 
-### General Overview
-![Airbnb Dashboard Overview](Overview.png)
+### Overview
+![Overview](Overview.png)
 
-### Overall / Detailed Review Views
-![Airbnb Review Analysis](Ratings.png)
+### Ratings
+![Ratings](Ratings.png)
 
-### Customer Feedback Analysis
-![Airbnb Reviews Analysis](Reviews.png)
+### Reviews
+![Reviews](Reviews.png)
 
 ## 🔍 Key Findings
 
@@ -97,8 +97,8 @@ This dashboard combines these dimensions into an interactive view to support mar
 
 - `AIRBNB DASHIBOARD.pbit` – Power BI dashboard template
 - `Overview.png` – General overview screenshot
-- `Ratings.png` – Review analysis screenshot
-- `Reviews.png` – Customer feedback screenshot
+- `Ratings.png` – Ratings and performance screenshot
+- `Reviews.png` – Customer reviews and feedback screenshot
 - `README.md` – Project documentation
 
 > **Dataset note:** The original dataset is not included in this repository because of its large file size. The Power BI dashboard template and dashboard screenshots are included to demonstrate the completed analysis.

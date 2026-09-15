@@ -12,9 +12,17 @@ The project focuses on practical business questions around **revenue, listings, 
 - Which **property/room types** contribute the most to bookings and earnings?
 
 ### 2️⃣ Performance & Pricing Analysis
-- How does **average pricing** vary across locations and property types?
-- How do amenities such as **Wi-Fi, Pool, and Parking** influence pricing and booking demand?
-- How do **Superhosts compare with regular hosts** in response rate, response time, and availability?
+This page uses bookmarks to switch between **Overall Review** and **Detailed Review** views.
+
+**Overall Review**
+- Provides a high-level view of Airbnb performance and review-related metrics.
+- Helps compare overall performance across the available dashboard dimensions.
+
+**Detailed Review**
+- Enables deeper analysis of pricing, amenities, host performance, and related listing factors.
+- Helps investigate how **average pricing** varies across locations and property types.
+- Examines how amenities such as **Wi-Fi, Pool, and Parking** influence pricing and booking demand.
+- Compares **Superhosts with regular hosts** in response rate, response time, and availability.
 
 ### 3️⃣ Reviews & Customer Feedback Analysis
 - What are the average guest ratings for **Accuracy, Cleanliness, Communication, and Value**?
@@ -53,10 +61,10 @@ This dashboard brings these dimensions together to support market comparison, pr
 ### General Overview
 ![Airbnb Dashboard Overview](Overview.png)
 
-### Ratings Analysis
-![Airbnb Ratings Analysis](Ratings.png)
+### Overall / Detailed Review Views
+![Airbnb Review Analysis](Ratings.png)
 
-### Reviews Analysis
+### Customer Feedback Analysis
 ![Airbnb Reviews Analysis](Reviews.png)
 
 ## 🔍 Key Analytical Areas
@@ -85,8 +93,8 @@ This dashboard brings these dimensions together to support market comparison, pr
 
 - `AIRBNB DASHIBOARD.pbit` – Power BI dashboard template
 - `Overview.png` – General overview screenshot
-- `Ratings.png` – Ratings analysis screenshot
-- `Reviews.png` – Reviews analysis screenshot
+- `Ratings.png` – Review analysis screenshot
+- `Reviews.png` – Customer feedback analysis screenshot
 - `README.md` – Project documentation
 
 > **Dataset note:** The original dataset is not included in this repository because of its large file size. The Power BI dashboard template and dashboard screenshots are included to demonstrate the completed analysis.
